@@ -1,0 +1,13 @@
+---- Applied Jobs Data ---- created at: 20240814
+---- Number | Job Title | Company | Location | Work Place | Posted Date | Applications | Result 
+
+ Category: DevOps Engineer, Location: Bangalore, Applying 1 result jobs.
+1 |  | India | 1 day ago | Over 100 applicants Remote | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3999432861
+
+ Category: Intern, Location: Dubai, Applying 8 results jobs.
+8 |  | Dubai, Dubai, United Arab Emirates | 6 days ago | Over 100 applicants On-site | Full-time | * 🥳 Just Applied to this job: https://www.linkedin.com/jobs/view/3995053983
+
+ Category: Intern, Location: Dubai, Applying 8 results jobs.
+8 |  | Dubai, Dubai, United Arab Emirates | 6 days ago | Over 100 applicants On-site | Full-time | * 🥳 Already applied! Job: https://www.linkedin.com/jobs/view/3995053983
+
+ Category: DevOps Intern, Location: Hyderabad, Applying 1 result jobs.
